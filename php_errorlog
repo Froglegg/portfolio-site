@@ -1,0 +1,274 @@
+[17-Jun-2018 18:58:13 CST6CDT] PHP Notice:  Undefined variable: title in /home/hcrowley/public_html/storybook_edit.php on line 38
+[17-Jun-2018 18:58:13 CST6CDT] PHP Notice:  Undefined variable: author in /home/hcrowley/public_html/storybook_edit.php on line 39
+[17-Jun-2018 18:58:13 CST6CDT] PHP Notice:  Undefined variable: description in /home/hcrowley/public_html/storybook_edit.php on line 40
+[20-Jun-2018 00:47:28 CST6CDT] PHP Notice:  Undefined variable: title in /home/hcrowley/public_html/storybook_edit.php on line 38
+[20-Jun-2018 00:47:28 CST6CDT] PHP Notice:  Undefined variable: author in /home/hcrowley/public_html/storybook_edit.php on line 39
+[20-Jun-2018 00:47:28 CST6CDT] PHP Notice:  Undefined variable: description in /home/hcrowley/public_html/storybook_edit.php on line 40
+[15-Jul-2018 16:48:30 CST6CDT] PHP Warning:  require_once(/contentful/vendor/autoload.php): failed to open stream: No such file or directory in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 22
+[15-Jul-2018 16:48:30 CST6CDT] PHP Fatal error:  require_once(): Failed opening required '/contentful/vendor/autoload.php' (include_path='.:/usr/local/php70/pear') in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 22
+[15-Jul-2018 16:51:22 CST6CDT] PHP Warning:  require_once(/contentful/vendor/autoload.php): failed to open stream: No such file or directory in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 22
+[15-Jul-2018 16:51:22 CST6CDT] PHP Fatal error:  require_once(): Failed opening required '/contentful/vendor/autoload.php' (include_path='.:/usr/local/php70/pear') in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 22
+[15-Jul-2018 16:51:24 CST6CDT] PHP Warning:  require_once(/contentful/vendor/autoload.php): failed to open stream: No such file or directory in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 22
+[15-Jul-2018 16:51:24 CST6CDT] PHP Fatal error:  require_once(): Failed opening required '/contentful/vendor/autoload.php' (include_path='.:/usr/local/php70/pear') in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 22
+[15-Jul-2018 17:03:55 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Name() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:04:39 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Name() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:05:09 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Name() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:05:29 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Name() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:05:31 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Name() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:06:14 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Name() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:06:28 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Name() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:08:57 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Name() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:11:14 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Title() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:12:27 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Title() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:12:37 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Title() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:14:36 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Title() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:14:56 CST6CDT] PHP Fatal error:  Call to undefined method Contentful\Delivery\Resource\Entry::Title() in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 85
+[15-Jul-2018 17:28:56 CST6CDT] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 53
+[15-Jul-2018 17:29:16 CST6CDT] PHP Parse error:  syntax error, unexpected ''summary'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 53
+[15-Jul-2018 17:39:41 CST6CDT] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 98
+[15-Jul-2018 17:39:54 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "Id" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('Id')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(70): Contentful\Delivery\Resource\Entry->offsetGet('Id')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 17:44:18 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "id" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('id')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(70): Contentful\Delivery\Resource\Entry->offsetGet('id')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 17:44:51 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(92): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 17:46:18 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(92): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 17:46:25 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(92): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 17:47:16 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(93): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 17:47:35 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(93): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 17:50:00 CST6CDT] PHP Notice:  Undefined variable: query in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 43
+[15-Jul-2018 17:50:00 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "title" on an entry with content type "Country" ("country"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('title')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(48): Contentful\Delivery\Resource\Entry->offsetGet('title')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 17:50:33 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(93): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 17:51:13 CST6CDT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting end of file in /home/hcrowley/public_html/hayescrowley.com/contentful.php on line 47
+[15-Jul-2018 17:51:26 CST6CDT] PHP Notice:  Undefined index: title in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/core/src/Resource/ResourceArray.php on line 156
+[15-Jul-2018 17:51:26 CST6CDT] PHP Notice:  Undefined index: summary in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/core/src/Resource/ResourceArray.php on line 156
+[15-Jul-2018 17:51:26 CST6CDT] PHP Notice:  Undefined index: title in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/core/src/Resource/ResourceArray.php on line 156
+[15-Jul-2018 17:51:26 CST6CDT] PHP Notice:  Undefined index: body in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/core/src/Resource/ResourceArray.php on line 156
+[15-Jul-2018 17:51:26 CST6CDT] PHP Notice:  Undefined index:  in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/core/src/Resource/ResourceArray.php on line 156
+[15-Jul-2018 17:51:42 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(93): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 18:02:38 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type Contentful\Delivery\Resource\ContentType as array in /home/hcrowley/public_html/hayescrowley.com/contentful2.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/contentful2.php on line 45
+[15-Jul-2018 18:03:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method Contentful\Delivery\Resource\ContentType::orderBy() in /home/hcrowley/public_html/hayescrowley.com/contentful2.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/contentful2.php on line 35
+[15-Jul-2018 18:04:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined method Contentful\Delivery\Resource\ContentType::orderBy() in /home/hcrowley/public_html/hayescrowley.com/contentful2.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/contentful2.php on line 37
+[15-Jul-2018 18:09:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /home/hcrowley/public_html/hayescrowley.com/contentful2.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/contentful2.php on line 41
+[15-Jul-2018 18:13:26 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "Id" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('Id')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful2.php(54): Contentful\Delivery\Resource\Entry->offsetGet('Id')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 18:32:55 CST6CDT] PHP Parse error:  syntax error, unexpected '$stories' (T_VARIABLE) in /home/hcrowley/public_html/hayescrowley.com/contentful2.php on line 38
+[15-Jul-2018 18:33:05 CST6CDT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/hcrowley/public_html/hayescrowley.com/contentful2.php on line 40
+[15-Jul-2018 18:34:28 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/hcrowley/public_html/hayescrowley.com/contentful2.php on line 86
+[15-Jul-2018 18:37:45 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(93): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[15-Jul-2018 18:40:30 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/hcrowley/public_html/hayescrowley.com/contentful2.php on line 86
+[17-Jul-2018 21:50:38 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(93): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[18-Jul-2018 22:35:22 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(93): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[19-Jul-2018 15:55:14 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(93): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[19-Jul-2018 16:01:18 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(93): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[19-Jul-2018 16:16:55 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(84): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[20-Jul-2018 08:26:26 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(84): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[22-Jul-2018 19:06:23 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(84): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[23-Jul-2018 13:13:42 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(84): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[23-Jul-2018 14:55:09 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(84): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[23-Jul-2018 17:30:06 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(84): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[24-Jul-2018 15:09:33 CST6CDT] PHP Fatal error:  Uncaught InvalidArgumentException: Trying to access non existent field "" on an entry with content type "Story" ("story"). in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php:189
+Stack trace:
+#0 /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php(113): Contentful\Delivery\Resource\Entry->get('')
+#1 /home/hcrowley/public_html/hayescrowley.com/contentful.php(84): Contentful\Delivery\Resource\Entry->offsetGet('')
+#2 {main}
+  thrown in /home/hcrowley/public_html/hayescrowley.com/vendor/contentful/contentful/src/Resource/Entry.php on line 189
+[31-Jul-2018 17:16:29 CST6CDT] PHP Notice:  Undefined variable: title in /home/hcrowley/public_html/hayescrowley.com/storybook_edit.php on line 38
+[31-Jul-2018 17:16:29 CST6CDT] PHP Notice:  Undefined variable: author in /home/hcrowley/public_html/hayescrowley.com/storybook_edit.php on line 39
+[31-Jul-2018 17:16:29 CST6CDT] PHP Notice:  Undefined variable: description in /home/hcrowley/public_html/hayescrowley.com/storybook_edit.php on line 40
+[05-Sep-2018 16:52:28 CST6CDT] PHP Parse error:  syntax error, unexpected ''Sorry, an ' (T_ENCAPSED_AND_WHITESPACE) in /home/hcrowley/public_html/hayescrowley.com/roommate_app.php on line 134
+[13-Dec-2018 16:04:55 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcrowley/public_html/hayescrowley.com/storybook_edit.php:40) in /home/hcrowley/public_html/hayescrowley.com/storybook_edit.php on line 70
+[13-Dec-2018 16:05:41 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcrowley/public_html/hayescrowley.com/storybook_edit.php:40) in /home/hcrowley/public_html/hayescrowley.com/storybook_edit.php on line 70
+[13-Dec-2018 16:06:59 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcrowley/public_html/hayescrowley.com/storybook_edit.php:40) in /home/hcrowley/public_html/hayescrowley.com/storybook_edit.php on line 70
+[28-Feb-2019 14:07:59 CST6CDT] PHP Fatal error:  require_once(): Failed opening required '/home/hcrowley/public_html/vendor/autoload.php' (include_path='.:/usr/local/php71/pear') in /home/hcrowley/public_html/contentful2.php on line 32
+[28-Feb-2019 14:23:12 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/hcrowley/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/usr/local/php71/pear') in /home/hcrowley/public_html/vendor/composer/autoload_real.php on line 66
+[28-Feb-2019 14:23:30 CST6CDT] PHP Fatal error:  require(): Failed opening required '/home/hcrowley/public_html/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/usr/local/php71/pear') in /home/hcrowley/public_html/vendor/composer/autoload_real.php on line 66
+[28-Feb-2019 15:57:06 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful2.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful2.php on line 37
+[28-Feb-2019 16:09:43 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 37
+[28-Feb-2019 16:10:08 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 37
+[28-Feb-2019 16:10:11 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 37
+[28-Feb-2019 16:10:42 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful2.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful2.php on line 37
+[28-Feb-2019 16:13:52 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 37
+[28-Feb-2019 16:14:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/hcrowley/public_html/contentful3.php on line 29
+[28-Feb-2019 16:14:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/hcrowley/public_html/contentful3.php on line 30
+[28-Feb-2019 16:14:47 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 37
+[28-Feb-2019 16:21:00 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 37
+[28-Feb-2019 16:21:01 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 37
+[28-Feb-2019 16:21:27 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful-old.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful-old.php on line 32
+[28-Feb-2019 16:22:41 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful-old.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful-old.php on line 32
+[28-Feb-2019 16:24:51 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 37
+[28-Feb-2019 16:26:25 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 34
+[28-Feb-2019 16:33:53 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 34
+[28-Feb-2019 16:33:55 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Contentful\Delivery\Client' not found in /home/hcrowley/public_html/contentful3.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/hcrowley/public_html/contentful3.php on line 34
+[25-Mar-2019 13:51:19 CST6CDT] PHP Notice:  Undefined variable: title in /home/hcrowley/public_html/storybook_edit.php on line 38
+[25-Mar-2019 13:51:19 CST6CDT] PHP Notice:  Undefined variable: author in /home/hcrowley/public_html/storybook_edit.php on line 39
+[25-Mar-2019 13:51:19 CST6CDT] PHP Notice:  Undefined variable: description in /home/hcrowley/public_html/storybook_edit.php on line 40
+[25-Mar-2019 13:51:22 CST6CDT] PHP Notice:  Undefined variable: title in /home/hcrowley/public_html/storybook_edit.php on line 38
+[25-Mar-2019 13:51:22 CST6CDT] PHP Notice:  Undefined variable: author in /home/hcrowley/public_html/storybook_edit.php on line 39
+[25-Mar-2019 13:51:22 CST6CDT] PHP Notice:  Undefined variable: description in /home/hcrowley/public_html/storybook_edit.php on line 40
+[25-Mar-2019 13:51:23 CST6CDT] PHP Notice:  Undefined variable: title in /home/hcrowley/public_html/storybook_edit.php on line 38
+[25-Mar-2019 13:51:23 CST6CDT] PHP Notice:  Undefined variable: author in /home/hcrowley/public_html/storybook_edit.php on line 39
+[25-Mar-2019 13:51:23 CST6CDT] PHP Notice:  Undefined variable: description in /home/hcrowley/public_html/storybook_edit.php on line 40

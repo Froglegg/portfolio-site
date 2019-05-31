@@ -1,0 +1,41 @@
+CONCEPT
+
+A multi-use site that primarily showcases my abilities as a writer and developer, with an elegant digital CV and professional tone. The landing page would target potential employers in technical writing, grant writing, web development, and/or writing/research-related industries. Secondarily, the site will have more personal ‘projects,’ such as music, book lists, hikes I’ve been on and want to go on, etc.
+
+SITE MAP
+
+-About me (index page with short, professional bio)
+
+- Resumé (js accordian with contact form)
+
+- Projects (with sub-menu items, may break some of these out into the top nav bar)
+--Web Sites (sites I’ve worked on in the past, with clickable preview images that lead offsite + description)
+--Publications (I’ll have a pdf of my thesis on here, maybe more later?)
+--Book lists (database pages, one will be the PCT book list I’ve already made, and another will be “My Book List,” where I’ll upload books I’m reading + summaries)
+--8124 Games (a short description of the class plus links to game pages, 8-ball, slot machine, perhaps checkers)
+--Hikes (preview panes with images and short descriptions that lead to specific pages with pictures and description of trails)
+--Music (js Wimpy player, an open-source media player)
+
+-Contact (same as contact form on Resumé page)
+
+AGENDA
+
+FIRST: Make it so people can push summaries to PCT book list database, and then make separate book list (my books) that I can update regularly each time I read a new book
+
+SECOND: Make contact form messages work, godammit!
+
+A: Make responsive nav-bar; (see https://www.w3schools.com/howto/howto_js_topnav_responsive.asp); UX test for responsive design on desktop and mobile
+
+B: Under 'projects' make sub-menu items; determine what goes where, etc.
+
+C: Create serious auto-bio landing page
+
+D: Create content for Hikes, Publications, and plugin music player for Music page
+
+E: Review for UX, styles, functionality, and security for the contact form; consider SEO options, analytics…
+
+F: Migrate to live environment (www.hayescrowley.com) and post to linkedin, glassdoor, handshake, indeed, and social media
+
+CHALLENGES
+
+I can foresee the more personal project getting in the way of the professional-facing ethos I want the site to have; need to strike balance, here.

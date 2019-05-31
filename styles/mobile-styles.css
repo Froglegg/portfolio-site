@@ -1,0 +1,466 @@
+/* a:... This changes colors of links, both visited and unvisited */
+a:link {
+	color: #DEF2F1;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #DEF2F1;
+}
+a:hover {
+	text-decoration: none;
+	color: #FEFFFF;
+	transition: 0.3s ease;
+}
+a:active {
+	text-decoration: none;
+	color: #DEF2F1;
+}
+
+
+/* home page h1 */
+
+
+ #indexH1:after { 
+  content:"\a";
+  white-space: pre;
+}
+/* body formatting */
+body
+{
+	background-color: #3AAFA9;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	height: 100%;
+	margin: auto;
+	width: 100%;
+	align: center;
+
+}
+
+/* Here be your navbar styles, pulled from Cointelpro site */
+.nav {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	background-color: #17252A;
+	margin: auto;
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+}
+.navabout {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.navnotes {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.navprojects {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.navslot {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.navmusic {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.nav8ball {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.navcv {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+/* accordian!!! */
+.accordion {
+
+    background-color: #3AAFA9 ;
+
+    color: #17252A;
+
+    cursor: pointer;
+
+    padding: 18px;
+
+    width: 100%;
+
+    border: 2px solid #2B7A78 ;
+
+    text-align: left;
+
+    outline: none;
+
+    transition: 0.4s;
+
+		font-family: 'Karla', sans-serif;
+
+		font-size:18px;
+
+		font-weight:normal;
+
+		line-height:29px;
+
+
+}
+
+/* text formatting */
+h1
+{
+text-align: center;
+padding-bottom: 10px;
+padding-top: 10px;
+width: 200px;
+height: 40px;
+margin: auto;
+font-family: 'Montserrat', sans-serif;
+font-size: 28px;
+color: #17252A;
+}
+
+h2
+{
+clear: left;
+font-family: 'Montserrat', sans-serif;
+font-size:24px;
+color: #17252A;
+}
+
+h3
+{ font-family: 'Montserrat', sans-serif;
+font-size:24px;
+line-height:39px;
+color: #17252A;
+}
+
+h4
+{ font-family: 'Montserrat', sans-serif;
+font-size:12px;
+color: #17252A;
+}
+
+p1
+{
+font-family: 'Karla', sans-serif;
+font-size:18px;
+font-weight:normal;
+line-height:29px;
+color: #17252A;
+}
+
+p2
+{
+margin: auto
+text-align: center;
+font-family: 'Karla', sans-serif;
+font-size:14px;
+color:#17252A;
+}
+
+/* images */
+.headshot {
+  display: block;
+  border: 3px ridge #17252A;
+	width:200px;
+	height:150px;
+}
+
+.wideimage {
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  border: none;
+}
+
+/* here be your footer */
+.foot {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #17252A;
+	color: #DEF2F1;
+	text-align: center;
+	font-size: x-small;
+	font-weight: 400;
+	font-family: 'Karla', sans-serif;
+}
+
+/* here be some java script styles for accordian maybe? */
+
+.container {
+font-family:verdana,arial,helvetica,sans-serif;
+font-size:16px;
+margin:4px 0;
+}
+.container span {
+font-weight:bold;
+cursor:pointer;
+}
+.off {
+display:none;
+}
+.on {
+display:block;
+margin:10px 30px;
+color:#003;
+background-color:#eef;
+}
+
+/* here be your table css */
+
+table {
+	font-family: 'Karla', sans-serif;
+	font-size:18px;
+	font-weight:normal;
+	line-height:29px;
+	color:#17252A;
+    width: 100%;
+		border-collapse: collapse;
+		column-width: inherit;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 8px;
+		width: 20%;
+		font-family: 'Karla', sans-serif;
+		font-size:18px;
+		font-weight:normal;
+		line-height:29px;
+		color:#17252A;
+
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+
+/* sticky footer */
+.wrapper {
+  min-height: 100%;
+
+  /* Equal to height of footer */
+  /* But also accounting for potential margin-bottom of last child */
+  margin-bottom: -50px;
+}
+.push {
+  height: 50px;
+}
+
+/* this be your contact form styles, boi */
+.select_area {
+	width: 100%;
+	padding: 12px;
+	border: 2px solid #2B7A78 ;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+	font-family: 'Karla', sans-serif;
+	line-height:29px;
+	font-size: 1.0em;
+	color: #17252A;
+}
+input[type=text], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #2B7A78 ;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-family: 'Karla', sans-serif;
+    line-height:29px;
+    color: #17252A;
+}
+input[type=password], textarea {
+    width: 90%;
+    padding: 12px;
+    border: 2px solid #2B7A78 ;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-family: 'Karla', sans-serif;
+    line-height:29px;
+		font-size: 1.0em;
+    color: #17252A;
+}
+input[type=email] {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #2B7A78 ;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-family: 'Karla', sans-serif;
+    line-height:29px;
+    color: #17252A;
+}
+input[type=submit] {
+    background-color: #79d2ce ;
+    color: #17252A;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #DEF2F1 ;
+}
+
+.container {
+
+    background-color: #3AAFA9 ;
+    padding: 20px;
+
+}
+/* this be your read more/less buttons */
+.morecontent span {
+display: none;
+
+}
+.morelink {
+display: block;
+background-color: #2B7A78;
+text-align: center;
+}
+
+/*here be some text div styles */
+
+
+/* here be some styles for the form text field*/
+div.editable {
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+/* here be your modal read more box
+.w3-modal{z-index:3;display:none;padding-top:100px;position:fixed;left:0;top:0;width:100%;height:100%;overflow:auto;background-color:rgb(0,0,0);background-color:rgba(0,0,0,0.4)}
+.w3-modal-content{margin:auto;background-color:#fff;position:relative;padding:0;outline:0;width:600px}
+.w3-container,.w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}
+.w3-display-topright{position:absolute;right:0;top:0}
+.w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+.w3-button{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+
+/* responsive images */
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* list styles */
+ul li {
+		margin:5px;
+		line-height: 1.6;
+		font-family: 'Karla', sans-serif;
+		font-size:18px;
+		font-weight:normal;
+		line-height:29px;
+		color:#17252A;
+}
+
+/* buttons that were missing from mobile styles for some reason... */
+.submitted_select {
+	  width: 200px;
+		height: 40px;
+		margin: auto;
+	  padding: 5px;
+	  cursor: pointer;
+	  font-weight: bold;
+	  background: #79d2ce;
+	  color: #17252A;
+	  border: 1px solid #17252A;
+		font-family: 'Karla', sans-serif;
+		font-size:18px;
+		font-weight:normal;
+		line-height:29px;
+}
+.button {
+  width: 200px;
+	height: 40px;
+	margin: auto;
+  padding: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  background: #79d2ce;
+  color: #17252A;
+  border: 1px solid #17252A;
+	font-family: 'Karla', sans-serif;
+	font-size:18px;
+	font-weight:normal;
+	line-height:29px;
+}
+.buttonlink {
+  width: 200px;
+	height: 40px;
+  padding: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  background: ##2B7A78;
+  color: #17252A;
+  border: 1px solid #17252A;
+	font-family: 'Karla', sans-serif;
+	font-size:18px;
+	font-weight:normal;
+	line-height:29px;
+}
+
+/*Here be your NEW modal box: */
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #3AAFA9;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #2B7A78;
+    width: 80%;
+}
+
+/* The Close Button */
+.close {
+    color: #79d2ce;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+		font-family: 'Karla', sans-serif;
+}
+
+.close:hover,
+.close:focus {
+    color: #79d2ce;
+    text-decoration: none;
+    cursor: pointer;
+}

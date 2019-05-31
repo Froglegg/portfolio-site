@@ -1,0 +1,1 @@
+<nav class="nav"> <a href="index.php" class="navabout">About Me</a> <a href="projects.php" class="navslot">Portfolio</a> <a href="cv.php" class="navcv">Resumé</a> <a href="contact.php" class="navslot">Contact</a></nav>
