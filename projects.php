@@ -1,7 +1,5 @@
 <head>
 
-
-
 <?php
 
 include 'head.php';

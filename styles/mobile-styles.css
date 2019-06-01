@@ -1,6 +1,6 @@
 /* a:... This changes colors of links, both visited and unvisited */
 a:link {
-	color: #DEF2F1;
+	color: rgb(0, 241, 229);
 	text-decoration: none;
 }
 a:visited {
