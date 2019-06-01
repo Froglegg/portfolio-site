@@ -1,5 +1,7 @@
 {
     "require": {
         "contentful/contentful": "^4.1"
-    }
+    },
+    "require-dev": { 
+        "heroku/heroku-buildpack-php":"*" }
 }
